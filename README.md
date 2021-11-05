@@ -1,2 +1,2 @@
 # SGSASample
-This is my test repo
+This was my sample repository I made fof SGSA.
